@@ -1,0 +1,22 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-task3",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "name": "C++ Compiler",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "C:/MinGW/bin",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}
+  

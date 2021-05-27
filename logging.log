@@ -1,0 +1,1532 @@
+2021-05-07 01:37:45,632 uiname is MainWindow
+2021-05-07 01:37:45,633 toplevel widget is QMainWindow
+2021-05-07 01:37:45,633 setting property windowModality
+2021-05-07 01:37:45,633 setting property geometry
+2021-05-07 01:37:45,633 setting property windowTitle
+2021-05-07 01:37:45,633 push QMainWindow MainWindow
+2021-05-07 01:37:45,634 push QWidget centralwidget
+2021-05-07 01:37:45,634 setting property geometry
+2021-05-07 01:37:45,634 setting property frameShape
+2021-05-07 01:37:45,634 setting property frameShadow
+2021-05-07 01:37:45,634 push QFrame frame
+2021-05-07 01:37:45,634 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,634 setting property geometry
+2021-05-07 01:37:45,635 push ImageView imageView
+2021-05-07 01:37:45,635 pop widget ImageView imageView
+2021-05-07 01:37:45,635 new topwidget self.frame
+2021-05-07 01:37:45,635 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,635 setting property geometry
+2021-05-07 01:37:45,635 push ImageView imageView_1_edit
+2021-05-07 01:37:45,635 pop widget ImageView imageView_1_edit
+2021-05-07 01:37:45,635 new topwidget self.frame
+2021-05-07 01:37:45,635 setting property geometry
+2021-05-07 01:37:45,636 setting property font
+2021-05-07 01:37:45,636 setting property text
+2021-05-07 01:37:45,636 push QLabel label
+2021-05-07 01:37:45,636 pop widget QLabel label
+2021-05-07 01:37:45,636 new topwidget self.frame
+2021-05-07 01:37:45,636 setting property geometry
+2021-05-07 01:37:45,636 setting property font
+2021-05-07 01:37:45,637 setting property toolTip
+2021-05-07 01:37:45,637 push QComboBox FT_component1
+2021-05-07 01:37:45,637 pop widget QComboBox FT_component1
+2021-05-07 01:37:45,637 new topwidget self.frame
+2021-05-07 01:37:45,637 pop widget QFrame frame
+2021-05-07 01:37:45,637 new topwidget self.centralwidget
+2021-05-07 01:37:45,637 setting property geometry
+2021-05-07 01:37:45,637 setting property frameShape
+2021-05-07 01:37:45,638 setting property frameShadow
+2021-05-07 01:37:45,638 push QFrame frame_2
+2021-05-07 01:37:45,638 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,638 setting property geometry
+2021-05-07 01:37:45,638 push ImageView imageView_2
+2021-05-07 01:37:45,638 pop widget ImageView imageView_2
+2021-05-07 01:37:45,638 new topwidget self.frame_2
+2021-05-07 01:37:45,638 setting property geometry
+2021-05-07 01:37:45,639 setting property font
+2021-05-07 01:37:45,639 setting property text
+2021-05-07 01:37:45,639 push QLabel label_2
+2021-05-07 01:37:45,639 pop widget QLabel label_2
+2021-05-07 01:37:45,639 new topwidget self.frame_2
+2021-05-07 01:37:45,639 setting property geometry
+2021-05-07 01:37:45,639 setting property font
+2021-05-07 01:37:45,640 setting property toolTip
+2021-05-07 01:37:45,640 push QComboBox FT_component_2
+2021-05-07 01:37:45,640 pop widget QComboBox FT_component_2
+2021-05-07 01:37:45,640 new topwidget self.frame_2
+2021-05-07 01:37:45,641 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,641 setting property geometry
+2021-05-07 01:37:45,641 push ImageView imageView_2_edit
+2021-05-07 01:37:45,641 pop widget ImageView imageView_2_edit
+2021-05-07 01:37:45,641 new topwidget self.frame_2
+2021-05-07 01:37:45,641 pop widget QFrame frame_2
+2021-05-07 01:37:45,641 new topwidget self.centralwidget
+2021-05-07 01:37:45,641 setting property geometry
+2021-05-07 01:37:45,641 setting property frameShape
+2021-05-07 01:37:45,642 setting property frameShadow
+2021-05-07 01:37:45,642 push QFrame frame_3
+2021-05-07 01:37:45,642 setting property geometry
+2021-05-07 01:37:45,642 setting property font
+2021-05-07 01:37:45,642 setting property text
+2021-05-07 01:37:45,642 push QLabel label_3
+2021-05-07 01:37:45,642 pop widget QLabel label_3
+2021-05-07 01:37:45,642 new topwidget self.frame_3
+2021-05-07 01:37:45,643 setting property geometry
+2021-05-07 01:37:45,643 setting property font
+2021-05-07 01:37:45,643 push QComboBox FT_component_3
+2021-05-07 01:37:45,643 pop widget QComboBox FT_component_3
+2021-05-07 01:37:45,643 new topwidget self.frame_3
+2021-05-07 01:37:45,643 setting property geometry
+2021-05-07 01:37:45,643 setting property font
+2021-05-07 01:37:45,644 setting property text
+2021-05-07 01:37:45,644 push QLabel label_4
+2021-05-07 01:37:45,644 pop widget QLabel label_4
+2021-05-07 01:37:45,644 new topwidget self.frame_3
+2021-05-07 01:37:45,644 setting property geometry
+2021-05-07 01:37:45,644 setting property font
+2021-05-07 01:37:45,644 setting property text
+2021-05-07 01:37:45,645 push QLabel label_5
+2021-05-07 01:37:45,645 pop widget QLabel label_5
+2021-05-07 01:37:45,645 new topwidget self.frame_3
+2021-05-07 01:37:45,645 setting property geometry
+2021-05-07 01:37:45,645 setting property minimum
+2021-05-07 01:37:45,645 setting property maximum
+2021-05-07 01:37:45,645 setting property value
+2021-05-07 01:37:45,645 setting property sliderPosition
+2021-05-07 01:37:45,645 setting property orientation
+2021-05-07 01:37:45,645 push QSlider FT_slider_1
+2021-05-07 01:37:45,645 pop widget QSlider FT_slider_1
+2021-05-07 01:37:45,646 new topwidget self.frame_3
+2021-05-07 01:37:45,646 setting property geometry
+2021-05-07 01:37:45,646 setting property minimum
+2021-05-07 01:37:45,646 setting property maximum
+2021-05-07 01:37:45,646 setting property value
+2021-05-07 01:37:45,646 setting property orientation
+2021-05-07 01:37:45,646 push QSlider FT_slider_2
+2021-05-07 01:37:45,646 pop widget QSlider FT_slider_2
+2021-05-07 01:37:45,646 new topwidget self.frame_3
+2021-05-07 01:37:45,646 setting property geometry
+2021-05-07 01:37:45,646 setting property font
+2021-05-07 01:37:45,647 push QComboBox FT_component_6
+2021-05-07 01:37:45,647 pop widget QComboBox FT_component_6
+2021-05-07 01:37:45,647 new topwidget self.frame_3
+2021-05-07 01:37:45,647 setting property geometry
+2021-05-07 01:37:45,647 setting property font
+2021-05-07 01:37:45,648 setting property toolTip
+2021-05-07 01:37:45,648 push QComboBox FT_component_4
+2021-05-07 01:37:45,648 pop widget QComboBox FT_component_4
+2021-05-07 01:37:45,648 new topwidget self.frame_3
+2021-05-07 01:37:45,648 setting property geometry
+2021-05-07 01:37:45,648 setting property font
+2021-05-07 01:37:45,648 setting property toolTip
+2021-05-07 01:37:45,648 push QComboBox FT_component_5
+2021-05-07 01:37:45,649 pop widget QComboBox FT_component_5
+2021-05-07 01:37:45,649 new topwidget self.frame_3
+2021-05-07 01:37:45,649 setting property geometry
+2021-05-07 01:37:45,649 setting property font
+2021-05-07 01:37:45,649 push QComboBox FT_component_7
+2021-05-07 01:37:45,650 pop widget QComboBox FT_component_7
+2021-05-07 01:37:45,650 new topwidget self.frame_3
+2021-05-07 01:37:45,650 setting property geometry
+2021-05-07 01:37:45,650 setting property text
+2021-05-07 01:37:45,650 push QLabel label_8
+2021-05-07 01:37:45,650 pop widget QLabel label_8
+2021-05-07 01:37:45,650 new topwidget self.frame_3
+2021-05-07 01:37:45,651 setting property geometry
+2021-05-07 01:37:45,651 setting property text
+2021-05-07 01:37:45,651 push QLabel label_9
+2021-05-07 01:37:45,651 pop widget QLabel label_9
+2021-05-07 01:37:45,651 new topwidget self.frame_3
+2021-05-07 01:37:45,651 pop widget QFrame frame_3
+2021-05-07 01:37:45,651 new topwidget self.centralwidget
+2021-05-07 01:37:45,651 setting property geometry
+2021-05-07 01:37:45,651 setting property frameShape
+2021-05-07 01:37:45,651 setting property frameShadow
+2021-05-07 01:37:45,652 push QFrame frame_4
+2021-05-07 01:37:45,652 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,652 setting property geometry
+2021-05-07 01:37:45,652 push ImageView output_1
+2021-05-07 01:37:45,652 pop widget ImageView output_1
+2021-05-07 01:37:45,652 new topwidget self.frame_4
+2021-05-07 01:37:45,652 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2021-05-07 01:37:45,653 setting property geometry
+2021-05-07 01:37:45,653 push ImageView output_2
+2021-05-07 01:37:45,653 pop widget ImageView output_2
+2021-05-07 01:37:45,653 new topwidget self.frame_4
+2021-05-07 01:37:45,653 setting property geometry
+2021-05-07 01:37:45,653 setting property font
+2021-05-07 01:37:45,653 setting property text
+2021-05-07 01:37:45,653 push QLabel label_6
+2021-05-07 01:37:45,654 pop widget QLabel label_6
+2021-05-07 01:37:45,654 new topwidget self.frame_4
+2021-05-07 01:37:45,654 setting property geometry
+2021-05-07 01:37:45,654 setting property font
+2021-05-07 01:37:45,654 setting property text
+2021-05-07 01:37:45,654 push QLabel label_7
+2021-05-07 01:37:45,654 pop widget QLabel label_7
+2021-05-07 01:37:45,654 new topwidget self.frame_4
+2021-05-07 01:37:45,654 pop widget QFrame frame_4
+2021-05-07 01:37:45,654 new topwidget self.centralwidget
+2021-05-07 01:37:45,655 pop widget QWidget centralwidget
+2021-05-07 01:37:45,655 new topwidget MainWindow
+2021-05-07 01:37:45,655 setting property geometry
+2021-05-07 01:37:45,655 push QMenuBar menubar
+2021-05-07 01:37:45,655 setting property title
+2021-05-07 01:37:45,655 push QMenu menuFile
+2021-05-07 01:37:45,655 pop widget QMenu menuFile
+2021-05-07 01:37:45,655 new topwidget self.menubar
+2021-05-07 01:37:45,655 setting property title
+2021-05-07 01:37:45,656 push QMenu menuBrowse
+2021-05-07 01:37:45,656 pop widget QMenu menuBrowse
+2021-05-07 01:37:45,656 new topwidget self.menubar
+2021-05-07 01:37:45,656 pop widget QMenuBar menubar
+2021-05-07 01:37:45,656 new topwidget MainWindow
+2021-05-07 01:37:45,656 push QStatusBar statusbar
+2021-05-07 01:37:45,656 pop widget QStatusBar statusbar
+2021-05-07 01:37:45,656 new topwidget MainWindow
+2021-05-07 01:37:45,656 setting property text
+2021-05-07 01:37:45,657 setting property statusTip
+2021-05-07 01:37:45,657 setting property shortcut
+2021-05-07 01:37:45,657 setting property text
+2021-05-07 01:37:45,657 setting property shortcut
+2021-05-07 01:37:45,657 setting property text
+2021-05-07 01:37:45,657 setting property shortcut
+2021-05-07 01:37:45,657 pop widget QMainWindow MainWindow
+2021-05-07 01:37:45,657 new topwidget None
+2021-05-07 01:37:45,657 add action actionNew_Window to menuFile
+2021-05-07 01:37:45,658 add action actionImage1 to menuBrowse
+2021-05-07 01:37:45,658 add action actionImage2 to menuBrowse
+2021-05-07 01:37:45,658 add action menuFile to menubar
+2021-05-07 01:37:45,658 add action menuBrowse to menubar
+2021-05-07 01:37:46,542 the window opened successfully
+2021-05-07 01:37:46,542 all viewers are hiden
+2021-05-07 01:37:46,542 open buttons are connected to their functions successfully
+2021-05-07 01:37:46,549 FT_componentes are connected to their functions successfully
+2021-05-07 01:37:46,549 sliders are connected to their functions successfully
+2021-05-07 01:37:51,746 the file opend successfully the path isC:/Users/Shady/OneDrive/Desktop/karin/3rd year 2nd term/DSP/dsp_task3/part_a/adidas.jpg
+2021-05-07 01:37:51,746 image viewer no. 0 is chosen to show the image
+2021-05-07 01:37:51,750 image uploaded successfuly
+2021-05-07 01:37:51,750 image viewer no. 2 is chosen to show the image
+2021-05-07 01:37:51,763 image uploaded successfuly
+2021-05-07 01:37:51,763 FT Magnitudecomponent have chosen to be showed in image viewer
+2021-05-07 01:37:51,764 the image is shown in the image viewer
+2021-05-07 01:37:55,640 image viewer no. 3 is chosen to show the image
+2021-05-07 01:37:55,645 image uploaded successfuly
+2021-05-07 01:37:55,645 FT Magnitudecomponent have chosen to be showed in image viewer
+2021-05-07 01:37:55,645 the file opend successfully the path isC:/Users/Shady/OneDrive/Desktop/karin/3rd year 2nd term/DSP/dsp_task3/part_a/uber.jpg
+2021-05-07 01:37:55,645 image viewer no. 1 is chosen to show the image
+2021-05-07 01:37:55,648 image uploaded successfuly
+2021-05-07 01:37:55,648 the image is shown in the image viewer
+2021-05-07 01:38:01,994 the mode chosen is None
+2021-05-07 01:38:01,995 the mode used in mixing the images is None for component Magnitude for Image1 and component  for Image2
+2021-05-07 01:38:01,995 the mixer did not work please choose the components properly
+2021-05-07 01:38:04,338 mode changed from None to magnitude&phase
+2021-05-07 01:38:04,338 the mode chosen is magnitude&phase
+2021-05-07 01:38:04,338 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:04,378 Mixing Magnitude and Phase
+2021-05-07 01:38:04,392 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:04,399 image uploaded successfuly
+2021-05-07 01:38:04,400 the mixer worked successfully
+2021-05-07 01:38:06,049 FT_slider1 value changed to0.99
+2021-05-07 01:38:06,049 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,050 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,081 Mixing Magnitude and Phase
+2021-05-07 01:38:06,093 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,099 image uploaded successfuly
+2021-05-07 01:38:06,099 the mixer worked successfully
+2021-05-07 01:38:06,108 FT_slider1 value changed to0.92
+2021-05-07 01:38:06,108 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,108 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,143 Mixing Magnitude and Phase
+2021-05-07 01:38:06,158 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,165 image uploaded successfuly
+2021-05-07 01:38:06,165 the mixer worked successfully
+2021-05-07 01:38:06,173 FT_slider1 value changed to0.68
+2021-05-07 01:38:06,173 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,173 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,213 Mixing Magnitude and Phase
+2021-05-07 01:38:06,228 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,236 image uploaded successfuly
+2021-05-07 01:38:06,236 the mixer worked successfully
+2021-05-07 01:38:06,242 FT_slider1 value changed to0.43
+2021-05-07 01:38:06,243 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,243 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,288 Mixing Magnitude and Phase
+2021-05-07 01:38:06,302 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,308 image uploaded successfuly
+2021-05-07 01:38:06,308 the mixer worked successfully
+2021-05-07 01:38:06,314 FT_slider1 value changed to0.29
+2021-05-07 01:38:06,314 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,315 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,360 Mixing Magnitude and Phase
+2021-05-07 01:38:06,377 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,386 image uploaded successfuly
+2021-05-07 01:38:06,386 the mixer worked successfully
+2021-05-07 01:38:06,393 FT_slider1 value changed to0.23
+2021-05-07 01:38:06,393 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,394 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,434 Mixing Magnitude and Phase
+2021-05-07 01:38:06,449 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:06,456 image uploaded successfuly
+2021-05-07 01:38:06,456 the mixer worked successfully
+2021-05-07 01:38:06,927 FT_slider1 value changed to0.24
+2021-05-07 01:38:06,927 FT_slider2 value changed to1.0
+2021-05-07 01:38:06,927 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:06,990 Mixing Magnitude and Phase
+2021-05-07 01:38:07,003 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,009 image uploaded successfuly
+2021-05-07 01:38:07,009 the mixer worked successfully
+2021-05-07 01:38:07,091 FT_slider1 value changed to0.25
+2021-05-07 01:38:07,091 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,091 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,167 Mixing Magnitude and Phase
+2021-05-07 01:38:07,181 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,190 image uploaded successfuly
+2021-05-07 01:38:07,191 the mixer worked successfully
+2021-05-07 01:38:07,197 FT_slider1 value changed to0.4
+2021-05-07 01:38:07,198 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,198 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,233 Mixing Magnitude and Phase
+2021-05-07 01:38:07,244 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,250 image uploaded successfuly
+2021-05-07 01:38:07,251 the mixer worked successfully
+2021-05-07 01:38:07,255 FT_slider1 value changed to0.64
+2021-05-07 01:38:07,256 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,256 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,288 Mixing Magnitude and Phase
+2021-05-07 01:38:07,300 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,306 image uploaded successfuly
+2021-05-07 01:38:07,306 the mixer worked successfully
+2021-05-07 01:38:07,312 FT_slider1 value changed to0.81
+2021-05-07 01:38:07,312 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,312 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,345 Mixing Magnitude and Phase
+2021-05-07 01:38:07,357 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,364 image uploaded successfuly
+2021-05-07 01:38:07,364 the mixer worked successfully
+2021-05-07 01:38:07,368 FT_slider1 value changed to0.9
+2021-05-07 01:38:07,369 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,369 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,399 Mixing Magnitude and Phase
+2021-05-07 01:38:07,412 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,418 image uploaded successfuly
+2021-05-07 01:38:07,418 the mixer worked successfully
+2021-05-07 01:38:07,423 FT_slider1 value changed to0.94
+2021-05-07 01:38:07,423 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,423 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,456 Mixing Magnitude and Phase
+2021-05-07 01:38:07,469 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,474 image uploaded successfuly
+2021-05-07 01:38:07,474 the mixer worked successfully
+2021-05-07 01:38:07,479 FT_slider1 value changed to0.95
+2021-05-07 01:38:07,479 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,479 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,512 Mixing Magnitude and Phase
+2021-05-07 01:38:07,524 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,529 image uploaded successfuly
+2021-05-07 01:38:07,530 the mixer worked successfully
+2021-05-07 01:38:07,724 FT_slider1 value changed to0.94
+2021-05-07 01:38:07,724 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,724 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,786 Mixing Magnitude and Phase
+2021-05-07 01:38:07,798 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,805 image uploaded successfuly
+2021-05-07 01:38:07,805 the mixer worked successfully
+2021-05-07 01:38:07,809 FT_slider1 value changed to0.83
+2021-05-07 01:38:07,809 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,809 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,842 Mixing Magnitude and Phase
+2021-05-07 01:38:07,853 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,859 image uploaded successfuly
+2021-05-07 01:38:07,859 the mixer worked successfully
+2021-05-07 01:38:07,864 FT_slider1 value changed to0.68
+2021-05-07 01:38:07,864 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,864 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,896 Mixing Magnitude and Phase
+2021-05-07 01:38:07,908 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,913 image uploaded successfuly
+2021-05-07 01:38:07,913 the mixer worked successfully
+2021-05-07 01:38:07,918 FT_slider1 value changed to0.56
+2021-05-07 01:38:07,918 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,918 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:07,950 Mixing Magnitude and Phase
+2021-05-07 01:38:07,962 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:07,969 image uploaded successfuly
+2021-05-07 01:38:07,969 the mixer worked successfully
+2021-05-07 01:38:07,974 FT_slider1 value changed to0.47
+2021-05-07 01:38:07,974 FT_slider2 value changed to1.0
+2021-05-07 01:38:07,974 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,008 Mixing Magnitude and Phase
+2021-05-07 01:38:08,020 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,027 image uploaded successfuly
+2021-05-07 01:38:08,027 the mixer worked successfully
+2021-05-07 01:38:08,033 FT_slider1 value changed to0.42
+2021-05-07 01:38:08,033 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,033 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,069 Mixing Magnitude and Phase
+2021-05-07 01:38:08,081 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,087 image uploaded successfuly
+2021-05-07 01:38:08,087 the mixer worked successfully
+2021-05-07 01:38:08,092 FT_slider1 value changed to0.41
+2021-05-07 01:38:08,092 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,092 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,125 Mixing Magnitude and Phase
+2021-05-07 01:38:08,137 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,142 image uploaded successfuly
+2021-05-07 01:38:08,142 the mixer worked successfully
+2021-05-07 01:38:08,147 FT_slider1 value changed to0.4
+2021-05-07 01:38:08,147 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,147 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,186 Mixing Magnitude and Phase
+2021-05-07 01:38:08,199 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,206 image uploaded successfuly
+2021-05-07 01:38:08,206 the mixer worked successfully
+2021-05-07 01:38:08,415 FT_slider1 value changed to0.41
+2021-05-07 01:38:08,415 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,415 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,473 Mixing Magnitude and Phase
+2021-05-07 01:38:08,486 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,492 image uploaded successfuly
+2021-05-07 01:38:08,492 the mixer worked successfully
+2021-05-07 01:38:08,496 FT_slider1 value changed to0.43
+2021-05-07 01:38:08,496 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,496 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,528 Mixing Magnitude and Phase
+2021-05-07 01:38:08,540 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,546 image uploaded successfuly
+2021-05-07 01:38:08,546 the mixer worked successfully
+2021-05-07 01:38:08,551 FT_slider1 value changed to0.5
+2021-05-07 01:38:08,551 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,551 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,584 Mixing Magnitude and Phase
+2021-05-07 01:38:08,596 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,602 image uploaded successfuly
+2021-05-07 01:38:08,602 the mixer worked successfully
+2021-05-07 01:38:08,607 FT_slider1 value changed to0.57
+2021-05-07 01:38:08,607 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,607 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,638 Mixing Magnitude and Phase
+2021-05-07 01:38:08,650 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,655 image uploaded successfuly
+2021-05-07 01:38:08,656 the mixer worked successfully
+2021-05-07 01:38:08,660 FT_slider1 value changed to0.58
+2021-05-07 01:38:08,660 FT_slider2 value changed to1.0
+2021-05-07 01:38:08,660 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:08,692 Mixing Magnitude and Phase
+2021-05-07 01:38:08,704 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:08,710 image uploaded successfuly
+2021-05-07 01:38:08,710 the mixer worked successfully
+2021-05-07 01:38:10,262 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,262 FT_slider2 value changed to0.99
+2021-05-07 01:38:10,262 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,311 Mixing Magnitude and Phase
+2021-05-07 01:38:10,326 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,334 image uploaded successfuly
+2021-05-07 01:38:10,334 the mixer worked successfully
+2021-05-07 01:38:10,339 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,339 FT_slider2 value changed to0.72
+2021-05-07 01:38:10,340 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,371 Mixing Magnitude and Phase
+2021-05-07 01:38:10,382 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,389 image uploaded successfuly
+2021-05-07 01:38:10,389 the mixer worked successfully
+2021-05-07 01:38:10,395 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,395 FT_slider2 value changed to0.55
+2021-05-07 01:38:10,395 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,427 Mixing Magnitude and Phase
+2021-05-07 01:38:10,439 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,445 image uploaded successfuly
+2021-05-07 01:38:10,446 the mixer worked successfully
+2021-05-07 01:38:10,450 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,450 FT_slider2 value changed to0.47
+2021-05-07 01:38:10,451 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,482 Mixing Magnitude and Phase
+2021-05-07 01:38:10,494 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,500 image uploaded successfuly
+2021-05-07 01:38:10,500 the mixer worked successfully
+2021-05-07 01:38:10,505 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,505 FT_slider2 value changed to0.43
+2021-05-07 01:38:10,505 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,540 Mixing Magnitude and Phase
+2021-05-07 01:38:10,555 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,562 image uploaded successfuly
+2021-05-07 01:38:10,562 the mixer worked successfully
+2021-05-07 01:38:10,567 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,567 FT_slider2 value changed to0.39
+2021-05-07 01:38:10,567 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,598 Mixing Magnitude and Phase
+2021-05-07 01:38:10,610 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,616 image uploaded successfuly
+2021-05-07 01:38:10,616 the mixer worked successfully
+2021-05-07 01:38:10,621 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,621 FT_slider2 value changed to0.37
+2021-05-07 01:38:10,621 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,653 Mixing Magnitude and Phase
+2021-05-07 01:38:10,664 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,670 image uploaded successfuly
+2021-05-07 01:38:10,670 the mixer worked successfully
+2021-05-07 01:38:10,679 FT_slider1 value changed to0.58
+2021-05-07 01:38:10,679 FT_slider2 value changed to0.36
+2021-05-07 01:38:10,680 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:10,710 Mixing Magnitude and Phase
+2021-05-07 01:38:10,722 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:10,728 image uploaded successfuly
+2021-05-07 01:38:10,728 the mixer worked successfully
+2021-05-07 01:38:11,265 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,265 FT_slider2 value changed to0.35
+2021-05-07 01:38:11,267 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,328 Mixing Magnitude and Phase
+2021-05-07 01:38:11,340 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,346 image uploaded successfuly
+2021-05-07 01:38:11,346 the mixer worked successfully
+2021-05-07 01:38:11,351 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,351 FT_slider2 value changed to0.32
+2021-05-07 01:38:11,351 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,383 Mixing Magnitude and Phase
+2021-05-07 01:38:11,395 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,401 image uploaded successfuly
+2021-05-07 01:38:11,402 the mixer worked successfully
+2021-05-07 01:38:11,407 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,407 FT_slider2 value changed to0.31
+2021-05-07 01:38:11,407 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,439 Mixing Magnitude and Phase
+2021-05-07 01:38:11,451 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,457 image uploaded successfuly
+2021-05-07 01:38:11,457 the mixer worked successfully
+2021-05-07 01:38:11,477 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,477 FT_slider2 value changed to0.3
+2021-05-07 01:38:11,477 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,508 Mixing Magnitude and Phase
+2021-05-07 01:38:11,520 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,526 image uploaded successfuly
+2021-05-07 01:38:11,526 the mixer worked successfully
+2021-05-07 01:38:11,624 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,624 FT_slider2 value changed to0.29
+2021-05-07 01:38:11,625 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,683 Mixing Magnitude and Phase
+2021-05-07 01:38:11,696 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,702 image uploaded successfuly
+2021-05-07 01:38:11,702 the mixer worked successfully
+2021-05-07 01:38:11,707 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,707 FT_slider2 value changed to0.25
+2021-05-07 01:38:11,707 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,747 Mixing Magnitude and Phase
+2021-05-07 01:38:11,760 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,766 image uploaded successfuly
+2021-05-07 01:38:11,766 the mixer worked successfully
+2021-05-07 01:38:11,772 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,772 FT_slider2 value changed to0.19
+2021-05-07 01:38:11,772 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,804 Mixing Magnitude and Phase
+2021-05-07 01:38:11,816 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,822 image uploaded successfuly
+2021-05-07 01:38:11,822 the mixer worked successfully
+2021-05-07 01:38:11,827 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,827 FT_slider2 value changed to0.13
+2021-05-07 01:38:11,827 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,859 Mixing Magnitude and Phase
+2021-05-07 01:38:11,871 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,877 image uploaded successfuly
+2021-05-07 01:38:11,877 the mixer worked successfully
+2021-05-07 01:38:11,882 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,882 FT_slider2 value changed to0.1
+2021-05-07 01:38:11,882 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,913 Mixing Magnitude and Phase
+2021-05-07 01:38:11,925 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,930 image uploaded successfuly
+2021-05-07 01:38:11,930 the mixer worked successfully
+2021-05-07 01:38:11,935 FT_slider1 value changed to0.58
+2021-05-07 01:38:11,935 FT_slider2 value changed to0.08
+2021-05-07 01:38:11,935 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:11,965 Mixing Magnitude and Phase
+2021-05-07 01:38:11,978 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:11,984 image uploaded successfuly
+2021-05-07 01:38:11,984 the mixer worked successfully
+2021-05-07 01:38:12,452 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,452 FT_slider2 value changed to0.07
+2021-05-07 01:38:12,453 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,513 Mixing Magnitude and Phase
+2021-05-07 01:38:12,526 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,532 image uploaded successfuly
+2021-05-07 01:38:12,532 the mixer worked successfully
+2021-05-07 01:38:12,538 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,538 FT_slider2 value changed to0.05
+2021-05-07 01:38:12,538 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,569 Mixing Magnitude and Phase
+2021-05-07 01:38:12,581 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,587 image uploaded successfuly
+2021-05-07 01:38:12,587 the mixer worked successfully
+2021-05-07 01:38:12,592 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,592 FT_slider2 value changed to0.03
+2021-05-07 01:38:12,592 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,624 Mixing Magnitude and Phase
+2021-05-07 01:38:12,636 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,641 image uploaded successfuly
+2021-05-07 01:38:12,641 the mixer worked successfully
+2021-05-07 01:38:12,675 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,675 FT_slider2 value changed to0.02
+2021-05-07 01:38:12,675 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,705 Mixing Magnitude and Phase
+2021-05-07 01:38:12,717 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,723 image uploaded successfuly
+2021-05-07 01:38:12,723 the mixer worked successfully
+2021-05-07 01:38:12,821 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,821 FT_slider2 value changed to0.01
+2021-05-07 01:38:12,822 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,887 Mixing Magnitude and Phase
+2021-05-07 01:38:12,902 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,909 image uploaded successfuly
+2021-05-07 01:38:12,909 the mixer worked successfully
+2021-05-07 01:38:12,914 FT_slider1 value changed to0.58
+2021-05-07 01:38:12,914 FT_slider2 value changed to0.0
+2021-05-07 01:38:12,915 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:12,948 Mixing Magnitude and Phase
+2021-05-07 01:38:12,961 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:12,968 image uploaded successfuly
+2021-05-07 01:38:12,969 the mixer worked successfully
+2021-05-07 01:38:14,444 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,444 FT_slider2 value changed to0.01
+2021-05-07 01:38:14,444 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,486 Mixing Magnitude and Phase
+2021-05-07 01:38:14,501 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,509 image uploaded successfuly
+2021-05-07 01:38:14,509 the mixer worked successfully
+2021-05-07 01:38:14,514 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,514 FT_slider2 value changed to0.04
+2021-05-07 01:38:14,514 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,545 Mixing Magnitude and Phase
+2021-05-07 01:38:14,557 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,563 image uploaded successfuly
+2021-05-07 01:38:14,563 the mixer worked successfully
+2021-05-07 01:38:14,568 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,568 FT_slider2 value changed to0.1
+2021-05-07 01:38:14,568 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,604 Mixing Magnitude and Phase
+2021-05-07 01:38:14,616 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,622 image uploaded successfuly
+2021-05-07 01:38:14,622 the mixer worked successfully
+2021-05-07 01:38:14,626 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,627 FT_slider2 value changed to0.15
+2021-05-07 01:38:14,627 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,658 Mixing Magnitude and Phase
+2021-05-07 01:38:14,670 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,676 image uploaded successfuly
+2021-05-07 01:38:14,676 the mixer worked successfully
+2021-05-07 01:38:14,681 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,681 FT_slider2 value changed to0.21
+2021-05-07 01:38:14,681 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,713 Mixing Magnitude and Phase
+2021-05-07 01:38:14,725 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,731 image uploaded successfuly
+2021-05-07 01:38:14,731 the mixer worked successfully
+2021-05-07 01:38:14,736 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,736 FT_slider2 value changed to0.29
+2021-05-07 01:38:14,736 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,768 Mixing Magnitude and Phase
+2021-05-07 01:38:14,778 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,784 image uploaded successfuly
+2021-05-07 01:38:14,784 the mixer worked successfully
+2021-05-07 01:38:14,789 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,789 FT_slider2 value changed to0.39
+2021-05-07 01:38:14,789 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,820 Mixing Magnitude and Phase
+2021-05-07 01:38:14,838 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,843 image uploaded successfuly
+2021-05-07 01:38:14,844 the mixer worked successfully
+2021-05-07 01:38:14,848 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,848 FT_slider2 value changed to0.47
+2021-05-07 01:38:14,848 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,880 Mixing Magnitude and Phase
+2021-05-07 01:38:14,892 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,898 image uploaded successfuly
+2021-05-07 01:38:14,898 the mixer worked successfully
+2021-05-07 01:38:14,903 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,903 FT_slider2 value changed to0.51
+2021-05-07 01:38:14,903 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,933 Mixing Magnitude and Phase
+2021-05-07 01:38:14,945 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:14,951 image uploaded successfuly
+2021-05-07 01:38:14,951 the mixer worked successfully
+2021-05-07 01:38:14,956 FT_slider1 value changed to0.58
+2021-05-07 01:38:14,957 FT_slider2 value changed to0.53
+2021-05-07 01:38:14,957 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:14,988 Mixing Magnitude and Phase
+2021-05-07 01:38:15,000 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:15,006 image uploaded successfuly
+2021-05-07 01:38:15,006 the mixer worked successfully
+2021-05-07 01:38:15,011 FT_slider1 value changed to0.58
+2021-05-07 01:38:15,011 FT_slider2 value changed to0.54
+2021-05-07 01:38:15,011 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:15,043 Mixing Magnitude and Phase
+2021-05-07 01:38:15,055 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:15,061 image uploaded successfuly
+2021-05-07 01:38:15,061 the mixer worked successfully
+2021-05-07 01:38:15,370 FT_slider1 value changed to0.58
+2021-05-07 01:38:15,370 FT_slider2 value changed to0.55
+2021-05-07 01:38:15,370 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:15,430 Mixing Magnitude and Phase
+2021-05-07 01:38:15,443 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:15,449 image uploaded successfuly
+2021-05-07 01:38:15,449 the mixer worked successfully
+2021-05-07 01:38:15,454 FT_slider1 value changed to0.58
+2021-05-07 01:38:15,454 FT_slider2 value changed to0.56
+2021-05-07 01:38:15,454 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:15,487 Mixing Magnitude and Phase
+2021-05-07 01:38:15,498 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:15,504 image uploaded successfuly
+2021-05-07 01:38:15,504 the mixer worked successfully
+2021-05-07 01:38:15,509 FT_slider1 value changed to0.58
+2021-05-07 01:38:15,509 FT_slider2 value changed to0.57
+2021-05-07 01:38:15,509 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:15,547 Mixing Magnitude and Phase
+2021-05-07 01:38:15,566 image viewer no. 4 is chosen to show the image
+2021-05-07 01:38:15,573 image uploaded successfuly
+2021-05-07 01:38:15,573 the mixer worked successfully
+2021-05-07 01:38:20,642 the mode used in mixing the images is magnitude&phase for component Magnitude for Image1 and component Phase for Image2
+2021-05-07 01:38:20,673 Mixing Magnitude and Phase
+2021-05-07 01:38:20,685 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:20,690 image uploaded successfuly
+2021-05-07 01:38:20,691 the mixer worked successfully
+2021-05-07 01:38:24,496 the mode chosen is None
+2021-05-07 01:38:24,496 the mode used in mixing the images is None for component Real for Image1 and component Phase for Image2
+2021-05-07 01:38:24,496 the mixer did not work please choose the components properly
+2021-05-07 01:38:27,169 mode changed from None to real&imaginary
+2021-05-07 01:38:27,170 the mode chosen is real&imaginary
+2021-05-07 01:38:27,170 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:27,183 Mixing Real And Imaginary
+2021-05-07 01:38:27,195 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:27,200 image uploaded successfuly
+2021-05-07 01:38:27,200 the mixer worked successfully
+2021-05-07 01:38:29,902 FT_slider1 value changed to0.58
+2021-05-07 01:38:29,902 FT_slider2 value changed to0.56
+2021-05-07 01:38:29,903 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:29,934 Mixing Real And Imaginary
+2021-05-07 01:38:29,955 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:29,962 image uploaded successfuly
+2021-05-07 01:38:29,962 the mixer worked successfully
+2021-05-07 01:38:29,967 FT_slider1 value changed to0.58
+2021-05-07 01:38:29,967 FT_slider2 value changed to0.49
+2021-05-07 01:38:29,967 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:29,981 Mixing Real And Imaginary
+2021-05-07 01:38:29,993 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:29,999 image uploaded successfuly
+2021-05-07 01:38:29,999 the mixer worked successfully
+2021-05-07 01:38:30,004 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,004 FT_slider2 value changed to0.45
+2021-05-07 01:38:30,004 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,017 Mixing Real And Imaginary
+2021-05-07 01:38:30,030 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,035 image uploaded successfuly
+2021-05-07 01:38:30,035 the mixer worked successfully
+2021-05-07 01:38:30,039 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,040 FT_slider2 value changed to0.43
+2021-05-07 01:38:30,040 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,053 Mixing Real And Imaginary
+2021-05-07 01:38:30,066 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,071 image uploaded successfuly
+2021-05-07 01:38:30,071 the mixer worked successfully
+2021-05-07 01:38:30,075 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,075 FT_slider2 value changed to0.41
+2021-05-07 01:38:30,075 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,089 Mixing Real And Imaginary
+2021-05-07 01:38:30,103 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,108 image uploaded successfuly
+2021-05-07 01:38:30,108 the mixer worked successfully
+2021-05-07 01:38:30,113 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,113 FT_slider2 value changed to0.4
+2021-05-07 01:38:30,113 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,126 Mixing Real And Imaginary
+2021-05-07 01:38:30,139 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,144 image uploaded successfuly
+2021-05-07 01:38:30,144 the mixer worked successfully
+2021-05-07 01:38:30,149 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,149 FT_slider2 value changed to0.38
+2021-05-07 01:38:30,149 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,163 Mixing Real And Imaginary
+2021-05-07 01:38:30,175 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,180 image uploaded successfuly
+2021-05-07 01:38:30,180 the mixer worked successfully
+2021-05-07 01:38:30,185 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,186 FT_slider2 value changed to0.37
+2021-05-07 01:38:30,186 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,199 Mixing Real And Imaginary
+2021-05-07 01:38:30,210 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,215 image uploaded successfuly
+2021-05-07 01:38:30,215 the mixer worked successfully
+2021-05-07 01:38:30,220 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,220 FT_slider2 value changed to0.36
+2021-05-07 01:38:30,220 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,233 Mixing Real And Imaginary
+2021-05-07 01:38:30,245 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,251 image uploaded successfuly
+2021-05-07 01:38:30,251 the mixer worked successfully
+2021-05-07 01:38:30,255 FT_slider1 value changed to0.58
+2021-05-07 01:38:30,255 FT_slider2 value changed to0.35
+2021-05-07 01:38:30,256 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:30,269 Mixing Real And Imaginary
+2021-05-07 01:38:30,282 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:30,287 image uploaded successfuly
+2021-05-07 01:38:30,287 the mixer worked successfully
+2021-05-07 01:38:32,052 FT_slider1 value changed to0.59
+2021-05-07 01:38:32,052 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,053 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,089 Mixing Real And Imaginary
+2021-05-07 01:38:32,113 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,122 image uploaded successfuly
+2021-05-07 01:38:32,122 the mixer worked successfully
+2021-05-07 01:38:32,127 FT_slider1 value changed to0.63
+2021-05-07 01:38:32,127 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,127 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,140 Mixing Real And Imaginary
+2021-05-07 01:38:32,153 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,158 image uploaded successfuly
+2021-05-07 01:38:32,158 the mixer worked successfully
+2021-05-07 01:38:32,163 FT_slider1 value changed to0.67
+2021-05-07 01:38:32,163 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,163 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,176 Mixing Real And Imaginary
+2021-05-07 01:38:32,188 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,194 image uploaded successfuly
+2021-05-07 01:38:32,195 the mixer worked successfully
+2021-05-07 01:38:32,200 FT_slider1 value changed to0.68
+2021-05-07 01:38:32,200 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,200 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,214 Mixing Real And Imaginary
+2021-05-07 01:38:32,226 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,232 image uploaded successfuly
+2021-05-07 01:38:32,232 the mixer worked successfully
+2021-05-07 01:38:32,237 FT_slider1 value changed to0.71
+2021-05-07 01:38:32,237 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,238 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,251 Mixing Real And Imaginary
+2021-05-07 01:38:32,264 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,269 image uploaded successfuly
+2021-05-07 01:38:32,269 the mixer worked successfully
+2021-05-07 01:38:32,274 FT_slider1 value changed to0.75
+2021-05-07 01:38:32,274 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,274 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,287 Mixing Real And Imaginary
+2021-05-07 01:38:32,299 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,304 image uploaded successfuly
+2021-05-07 01:38:32,304 the mixer worked successfully
+2021-05-07 01:38:32,310 FT_slider1 value changed to0.77
+2021-05-07 01:38:32,310 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,310 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,322 Mixing Real And Imaginary
+2021-05-07 01:38:32,335 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,340 image uploaded successfuly
+2021-05-07 01:38:32,340 the mixer worked successfully
+2021-05-07 01:38:32,344 FT_slider1 value changed to0.79
+2021-05-07 01:38:32,345 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,345 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,358 Mixing Real And Imaginary
+2021-05-07 01:38:32,370 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,375 image uploaded successfuly
+2021-05-07 01:38:32,376 the mixer worked successfully
+2021-05-07 01:38:32,381 FT_slider1 value changed to0.8
+2021-05-07 01:38:32,381 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,381 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,394 Mixing Real And Imaginary
+2021-05-07 01:38:32,407 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,413 image uploaded successfuly
+2021-05-07 01:38:32,413 the mixer worked successfully
+2021-05-07 01:38:32,418 FT_slider1 value changed to0.81
+2021-05-07 01:38:32,418 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,418 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,432 Mixing Real And Imaginary
+2021-05-07 01:38:32,444 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,450 image uploaded successfuly
+2021-05-07 01:38:32,450 the mixer worked successfully
+2021-05-07 01:38:32,742 FT_slider1 value changed to0.8
+2021-05-07 01:38:32,742 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,743 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,778 Mixing Real And Imaginary
+2021-05-07 01:38:32,813 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,822 image uploaded successfuly
+2021-05-07 01:38:32,822 the mixer worked successfully
+2021-05-07 01:38:32,830 FT_slider1 value changed to0.64
+2021-05-07 01:38:32,830 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,830 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,852 Mixing Real And Imaginary
+2021-05-07 01:38:32,874 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,880 image uploaded successfuly
+2021-05-07 01:38:32,880 the mixer worked successfully
+2021-05-07 01:38:32,885 FT_slider1 value changed to0.48
+2021-05-07 01:38:32,885 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,885 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,900 Mixing Real And Imaginary
+2021-05-07 01:38:32,913 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,919 image uploaded successfuly
+2021-05-07 01:38:32,919 the mixer worked successfully
+2021-05-07 01:38:32,925 FT_slider1 value changed to0.4
+2021-05-07 01:38:32,925 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,925 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,941 Mixing Real And Imaginary
+2021-05-07 01:38:32,954 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,959 image uploaded successfuly
+2021-05-07 01:38:32,959 the mixer worked successfully
+2021-05-07 01:38:32,964 FT_slider1 value changed to0.36
+2021-05-07 01:38:32,964 FT_slider2 value changed to0.35
+2021-05-07 01:38:32,965 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:32,980 Mixing Real And Imaginary
+2021-05-07 01:38:32,993 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:32,998 image uploaded successfuly
+2021-05-07 01:38:32,999 the mixer worked successfully
+2021-05-07 01:38:33,003 FT_slider1 value changed to0.33
+2021-05-07 01:38:33,003 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,003 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,018 Mixing Real And Imaginary
+2021-05-07 01:38:33,031 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,037 image uploaded successfuly
+2021-05-07 01:38:33,037 the mixer worked successfully
+2021-05-07 01:38:33,041 FT_slider1 value changed to0.32
+2021-05-07 01:38:33,041 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,041 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,056 Mixing Real And Imaginary
+2021-05-07 01:38:33,071 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,076 image uploaded successfuly
+2021-05-07 01:38:33,077 the mixer worked successfully
+2021-05-07 01:38:33,082 FT_slider1 value changed to0.3
+2021-05-07 01:38:33,082 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,082 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,100 Mixing Real And Imaginary
+2021-05-07 01:38:33,113 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,118 image uploaded successfuly
+2021-05-07 01:38:33,118 the mixer worked successfully
+2021-05-07 01:38:33,124 FT_slider1 value changed to0.29
+2021-05-07 01:38:33,124 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,124 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,140 Mixing Real And Imaginary
+2021-05-07 01:38:33,154 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,160 image uploaded successfuly
+2021-05-07 01:38:33,160 the mixer worked successfully
+2021-05-07 01:38:33,165 FT_slider1 value changed to0.28
+2021-05-07 01:38:33,165 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,165 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,179 Mixing Real And Imaginary
+2021-05-07 01:38:33,191 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,196 image uploaded successfuly
+2021-05-07 01:38:33,196 the mixer worked successfully
+2021-05-07 01:38:33,201 FT_slider1 value changed to0.27
+2021-05-07 01:38:33,201 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,201 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,215 Mixing Real And Imaginary
+2021-05-07 01:38:33,226 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,232 image uploaded successfuly
+2021-05-07 01:38:33,233 the mixer worked successfully
+2021-05-07 01:38:33,246 FT_slider1 value changed to0.26
+2021-05-07 01:38:33,247 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,247 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,263 Mixing Real And Imaginary
+2021-05-07 01:38:33,276 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,281 image uploaded successfuly
+2021-05-07 01:38:33,281 the mixer worked successfully
+2021-05-07 01:38:33,287 FT_slider1 value changed to0.25
+2021-05-07 01:38:33,287 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,287 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,300 Mixing Real And Imaginary
+2021-05-07 01:38:33,313 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,318 image uploaded successfuly
+2021-05-07 01:38:33,318 the mixer worked successfully
+2021-05-07 01:38:33,423 FT_slider1 value changed to0.24
+2021-05-07 01:38:33,424 FT_slider2 value changed to0.35
+2021-05-07 01:38:33,424 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:33,451 Mixing Real And Imaginary
+2021-05-07 01:38:33,472 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:33,477 image uploaded successfuly
+2021-05-07 01:38:33,477 the mixer worked successfully
+2021-05-07 01:38:34,845 FT_slider1 value changed to0.24
+2021-05-07 01:38:34,845 FT_slider2 value changed to0.36
+2021-05-07 01:38:34,846 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:34,880 Mixing Real And Imaginary
+2021-05-07 01:38:34,913 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:34,920 image uploaded successfuly
+2021-05-07 01:38:34,920 the mixer worked successfully
+2021-05-07 01:38:34,925 FT_slider1 value changed to0.24
+2021-05-07 01:38:34,925 FT_slider2 value changed to0.53
+2021-05-07 01:38:34,925 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:34,941 Mixing Real And Imaginary
+2021-05-07 01:38:34,952 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:34,958 image uploaded successfuly
+2021-05-07 01:38:34,958 the mixer worked successfully
+2021-05-07 01:38:34,963 FT_slider1 value changed to0.24
+2021-05-07 01:38:34,963 FT_slider2 value changed to0.59
+2021-05-07 01:38:34,963 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:34,976 Mixing Real And Imaginary
+2021-05-07 01:38:34,988 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:34,993 image uploaded successfuly
+2021-05-07 01:38:34,993 the mixer worked successfully
+2021-05-07 01:38:34,999 FT_slider1 value changed to0.24
+2021-05-07 01:38:34,999 FT_slider2 value changed to0.62
+2021-05-07 01:38:34,999 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:35,013 Mixing Real And Imaginary
+2021-05-07 01:38:35,024 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:35,030 image uploaded successfuly
+2021-05-07 01:38:35,030 the mixer worked successfully
+2021-05-07 01:38:35,035 FT_slider1 value changed to0.24
+2021-05-07 01:38:35,035 FT_slider2 value changed to0.64
+2021-05-07 01:38:35,035 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:35,049 Mixing Real And Imaginary
+2021-05-07 01:38:35,062 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:35,067 image uploaded successfuly
+2021-05-07 01:38:35,067 the mixer worked successfully
+2021-05-07 01:38:35,072 FT_slider1 value changed to0.24
+2021-05-07 01:38:35,072 FT_slider2 value changed to0.65
+2021-05-07 01:38:35,072 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:35,086 Mixing Real And Imaginary
+2021-05-07 01:38:35,098 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:35,103 image uploaded successfuly
+2021-05-07 01:38:35,103 the mixer worked successfully
+2021-05-07 01:38:36,118 FT_slider1 value changed to0.24
+2021-05-07 01:38:36,118 FT_slider2 value changed to0.66
+2021-05-07 01:38:36,119 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:36,147 Mixing Real And Imaginary
+2021-05-07 01:38:36,169 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:36,174 image uploaded successfuly
+2021-05-07 01:38:36,174 the mixer worked successfully
+2021-05-07 01:38:36,179 FT_slider1 value changed to0.24
+2021-05-07 01:38:36,179 FT_slider2 value changed to0.69
+2021-05-07 01:38:36,179 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:36,192 Mixing Real And Imaginary
+2021-05-07 01:38:36,204 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:36,209 image uploaded successfuly
+2021-05-07 01:38:36,209 the mixer worked successfully
+2021-05-07 01:38:36,214 FT_slider1 value changed to0.24
+2021-05-07 01:38:36,214 FT_slider2 value changed to0.71
+2021-05-07 01:38:36,214 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:36,228 Mixing Real And Imaginary
+2021-05-07 01:38:36,241 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:36,248 image uploaded successfuly
+2021-05-07 01:38:36,248 the mixer worked successfully
+2021-05-07 01:38:36,252 FT_slider1 value changed to0.24
+2021-05-07 01:38:36,252 FT_slider2 value changed to0.72
+2021-05-07 01:38:36,253 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:36,266 Mixing Real And Imaginary
+2021-05-07 01:38:36,277 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:36,283 image uploaded successfuly
+2021-05-07 01:38:36,283 the mixer worked successfully
+2021-05-07 01:38:38,015 FT_slider1 value changed to0.25
+2021-05-07 01:38:38,015 FT_slider2 value changed to0.72
+2021-05-07 01:38:38,016 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:38,046 Mixing Real And Imaginary
+2021-05-07 01:38:38,067 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:38,073 image uploaded successfuly
+2021-05-07 01:38:38,073 the mixer worked successfully
+2021-05-07 01:38:38,078 FT_slider1 value changed to0.35
+2021-05-07 01:38:38,078 FT_slider2 value changed to0.72
+2021-05-07 01:38:38,078 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:38,092 Mixing Real And Imaginary
+2021-05-07 01:38:38,104 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:38,109 image uploaded successfuly
+2021-05-07 01:38:38,110 the mixer worked successfully
+2021-05-07 01:38:38,115 FT_slider1 value changed to0.43
+2021-05-07 01:38:38,115 FT_slider2 value changed to0.72
+2021-05-07 01:38:38,115 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:38,128 Mixing Real And Imaginary
+2021-05-07 01:38:38,140 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:38,146 image uploaded successfuly
+2021-05-07 01:38:38,146 the mixer worked successfully
+2021-05-07 01:38:38,151 FT_slider1 value changed to0.47
+2021-05-07 01:38:38,151 FT_slider2 value changed to0.72
+2021-05-07 01:38:38,151 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:38,164 Mixing Real And Imaginary
+2021-05-07 01:38:38,176 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:38,181 image uploaded successfuly
+2021-05-07 01:38:38,182 the mixer worked successfully
+2021-05-07 01:38:38,186 FT_slider1 value changed to0.49
+2021-05-07 01:38:38,187 FT_slider2 value changed to0.72
+2021-05-07 01:38:38,187 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:38,200 Mixing Real And Imaginary
+2021-05-07 01:38:38,213 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:38,218 image uploaded successfuly
+2021-05-07 01:38:38,218 the mixer worked successfully
+2021-05-07 01:38:39,190 FT_slider1 value changed to0.48
+2021-05-07 01:38:39,191 FT_slider2 value changed to0.72
+2021-05-07 01:38:39,191 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:39,226 Mixing Real And Imaginary
+2021-05-07 01:38:39,250 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:39,260 image uploaded successfuly
+2021-05-07 01:38:39,260 the mixer worked successfully
+2021-05-07 01:38:39,264 FT_slider1 value changed to0.34
+2021-05-07 01:38:39,264 FT_slider2 value changed to0.72
+2021-05-07 01:38:39,264 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:39,278 Mixing Real And Imaginary
+2021-05-07 01:38:39,289 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:39,295 image uploaded successfuly
+2021-05-07 01:38:39,295 the mixer worked successfully
+2021-05-07 01:38:39,299 FT_slider1 value changed to0.31
+2021-05-07 01:38:39,300 FT_slider2 value changed to0.72
+2021-05-07 01:38:39,300 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:39,313 Mixing Real And Imaginary
+2021-05-07 01:38:39,326 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:39,331 image uploaded successfuly
+2021-05-07 01:38:39,332 the mixer worked successfully
+2021-05-07 01:38:39,336 FT_slider1 value changed to0.29
+2021-05-07 01:38:39,336 FT_slider2 value changed to0.72
+2021-05-07 01:38:39,336 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:39,350 Mixing Real And Imaginary
+2021-05-07 01:38:39,362 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:39,367 image uploaded successfuly
+2021-05-07 01:38:39,367 the mixer worked successfully
+2021-05-07 01:38:40,815 FT_slider1 value changed to0.29
+2021-05-07 01:38:40,816 FT_slider2 value changed to0.71
+2021-05-07 01:38:40,816 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:40,849 Mixing Real And Imaginary
+2021-05-07 01:38:40,883 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:40,890 image uploaded successfuly
+2021-05-07 01:38:40,890 the mixer worked successfully
+2021-05-07 01:38:40,897 FT_slider1 value changed to0.29
+2021-05-07 01:38:40,897 FT_slider2 value changed to0.49
+2021-05-07 01:38:40,897 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:40,913 Mixing Real And Imaginary
+2021-05-07 01:38:40,925 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:40,931 image uploaded successfuly
+2021-05-07 01:38:40,931 the mixer worked successfully
+2021-05-07 01:38:40,935 FT_slider1 value changed to0.29
+2021-05-07 01:38:40,936 FT_slider2 value changed to0.37
+2021-05-07 01:38:40,936 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:40,949 Mixing Real And Imaginary
+2021-05-07 01:38:40,962 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:40,967 image uploaded successfuly
+2021-05-07 01:38:40,967 the mixer worked successfully
+2021-05-07 01:38:40,972 FT_slider1 value changed to0.29
+2021-05-07 01:38:40,972 FT_slider2 value changed to0.35
+2021-05-07 01:38:40,972 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:40,985 Mixing Real And Imaginary
+2021-05-07 01:38:40,998 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:41,003 image uploaded successfuly
+2021-05-07 01:38:41,003 the mixer worked successfully
+2021-05-07 01:38:41,818 FT_slider1 value changed to0.29
+2021-05-07 01:38:41,818 FT_slider2 value changed to0.34
+2021-05-07 01:38:41,818 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:41,848 Mixing Real And Imaginary
+2021-05-07 01:38:41,869 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:41,875 image uploaded successfuly
+2021-05-07 01:38:41,875 the mixer worked successfully
+2021-05-07 01:38:41,880 FT_slider1 value changed to0.29
+2021-05-07 01:38:41,880 FT_slider2 value changed to0.24
+2021-05-07 01:38:41,880 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:41,894 Mixing Real And Imaginary
+2021-05-07 01:38:41,905 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:41,911 image uploaded successfuly
+2021-05-07 01:38:41,911 the mixer worked successfully
+2021-05-07 01:38:41,916 FT_slider1 value changed to0.29
+2021-05-07 01:38:41,916 FT_slider2 value changed to0.18
+2021-05-07 01:38:41,916 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:41,929 Mixing Real And Imaginary
+2021-05-07 01:38:41,941 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:41,946 image uploaded successfuly
+2021-05-07 01:38:41,947 the mixer worked successfully
+2021-05-07 01:38:41,952 FT_slider1 value changed to0.29
+2021-05-07 01:38:41,952 FT_slider2 value changed to0.13
+2021-05-07 01:38:41,952 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:41,965 Mixing Real And Imaginary
+2021-05-07 01:38:41,977 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:41,982 image uploaded successfuly
+2021-05-07 01:38:41,982 the mixer worked successfully
+2021-05-07 01:38:41,986 FT_slider1 value changed to0.29
+2021-05-07 01:38:41,987 FT_slider2 value changed to0.12
+2021-05-07 01:38:41,987 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:42,001 Mixing Real And Imaginary
+2021-05-07 01:38:42,013 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:42,018 image uploaded successfuly
+2021-05-07 01:38:42,019 the mixer worked successfully
+2021-05-07 01:38:42,848 FT_slider1 value changed to0.29
+2021-05-07 01:38:42,849 FT_slider2 value changed to0.13
+2021-05-07 01:38:42,849 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:42,887 Mixing Real And Imaginary
+2021-05-07 01:38:42,911 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:42,920 image uploaded successfuly
+2021-05-07 01:38:42,920 the mixer worked successfully
+2021-05-07 01:38:42,926 FT_slider1 value changed to0.29
+2021-05-07 01:38:42,926 FT_slider2 value changed to0.34
+2021-05-07 01:38:42,926 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:42,940 Mixing Real And Imaginary
+2021-05-07 01:38:42,952 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:42,957 image uploaded successfuly
+2021-05-07 01:38:42,958 the mixer worked successfully
+2021-05-07 01:38:42,963 FT_slider1 value changed to0.29
+2021-05-07 01:38:42,963 FT_slider2 value changed to0.47
+2021-05-07 01:38:42,963 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:42,976 Mixing Real And Imaginary
+2021-05-07 01:38:42,989 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:42,994 image uploaded successfuly
+2021-05-07 01:38:42,994 the mixer worked successfully
+2021-05-07 01:38:43,000 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,000 FT_slider2 value changed to0.57
+2021-05-07 01:38:43,000 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,014 Mixing Real And Imaginary
+2021-05-07 01:38:43,026 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,031 image uploaded successfuly
+2021-05-07 01:38:43,031 the mixer worked successfully
+2021-05-07 01:38:43,036 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,036 FT_slider2 value changed to0.61
+2021-05-07 01:38:43,036 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,050 Mixing Real And Imaginary
+2021-05-07 01:38:43,063 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,068 image uploaded successfuly
+2021-05-07 01:38:43,068 the mixer worked successfully
+2021-05-07 01:38:43,072 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,072 FT_slider2 value changed to0.67
+2021-05-07 01:38:43,072 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,086 Mixing Real And Imaginary
+2021-05-07 01:38:43,098 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,104 image uploaded successfuly
+2021-05-07 01:38:43,104 the mixer worked successfully
+2021-05-07 01:38:43,109 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,109 FT_slider2 value changed to0.72
+2021-05-07 01:38:43,110 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,122 Mixing Real And Imaginary
+2021-05-07 01:38:43,135 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,141 image uploaded successfuly
+2021-05-07 01:38:43,141 the mixer worked successfully
+2021-05-07 01:38:43,146 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,146 FT_slider2 value changed to0.74
+2021-05-07 01:38:43,146 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,160 Mixing Real And Imaginary
+2021-05-07 01:38:43,172 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,177 image uploaded successfuly
+2021-05-07 01:38:43,177 the mixer worked successfully
+2021-05-07 01:38:43,187 FT_slider1 value changed to0.29
+2021-05-07 01:38:43,188 FT_slider2 value changed to0.75
+2021-05-07 01:38:43,188 the mode used in mixing the images is real&imaginary for component Real for Image1 and component Imaginary for Image2
+2021-05-07 01:38:43,201 Mixing Real And Imaginary
+2021-05-07 01:38:43,214 image viewer no. 5 is chosen to show the image
+2021-05-07 01:38:43,219 image uploaded successfuly
+2021-05-07 01:38:43,219 the mixer worked successfully
+2021-05-07 01:38:55,236 the mode chosen is None
+2021-05-07 01:38:55,236 the mode used in mixing the images is None for component Magnitude for Image1 and component Imaginary for Image2
+2021-05-07 01:38:55,236 the mixer did not work please choose the components properly
+2021-05-07 01:38:59,031 the mode chosen is None
+2021-05-07 01:38:59,031 the mode used in mixing the images is None for component Magnitude for Image1 and component Real for Image2
+2021-05-07 01:38:59,031 the mixer did not work please choose the components properly
+2021-05-07 01:39:04,926 the mode chosen is None
+2021-05-07 01:39:04,926 the mode used in mixing the images is None for component Magnitude for Image1 and component Imaginary for Image2
+2021-05-07 01:39:04,926 the mixer did not work please choose the components properly
+2021-05-07 01:39:08,963 the mode chosen is None
+2021-05-07 01:39:08,963 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:08,963 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,134 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,134 FT_slider2 value changed to0.73
+2021-05-07 01:39:12,135 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,135 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,143 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,143 FT_slider2 value changed to0.71
+2021-05-07 01:39:12,143 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,144 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,153 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,153 FT_slider2 value changed to0.68
+2021-05-07 01:39:12,154 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,154 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,162 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,163 FT_slider2 value changed to0.65
+2021-05-07 01:39:12,163 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,163 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,172 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,172 FT_slider2 value changed to0.61
+2021-05-07 01:39:12,173 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,173 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,182 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,183 FT_slider2 value changed to0.57
+2021-05-07 01:39:12,183 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,184 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,191 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,192 FT_slider2 value changed to0.53
+2021-05-07 01:39:12,192 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,193 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,200 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,201 FT_slider2 value changed to0.5
+2021-05-07 01:39:12,201 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,201 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,210 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,210 FT_slider2 value changed to0.47
+2021-05-07 01:39:12,210 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,210 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,219 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,220 FT_slider2 value changed to0.43
+2021-05-07 01:39:12,220 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,220 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,229 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,229 FT_slider2 value changed to0.42
+2021-05-07 01:39:12,229 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,230 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,238 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,238 FT_slider2 value changed to0.39
+2021-05-07 01:39:12,239 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,239 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,248 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,248 FT_slider2 value changed to0.37
+2021-05-07 01:39:12,248 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,249 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,258 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,258 FT_slider2 value changed to0.36
+2021-05-07 01:39:12,258 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,258 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,268 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,268 FT_slider2 value changed to0.35
+2021-05-07 01:39:12,268 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,268 the mixer did not work please choose the components properly
+2021-05-07 01:39:12,288 FT_slider1 value changed to0.29
+2021-05-07 01:39:12,288 FT_slider2 value changed to0.34
+2021-05-07 01:39:12,288 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:12,288 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,779 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,779 FT_slider2 value changed to0.35
+2021-05-07 01:39:13,780 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,780 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,787 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,787 FT_slider2 value changed to0.36
+2021-05-07 01:39:13,788 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,788 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,796 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,797 FT_slider2 value changed to0.38
+2021-05-07 01:39:13,797 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,797 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,807 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,807 FT_slider2 value changed to0.41
+2021-05-07 01:39:13,808 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,808 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,815 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,816 FT_slider2 value changed to0.44
+2021-05-07 01:39:13,816 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,816 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,826 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,826 FT_slider2 value changed to0.47
+2021-05-07 01:39:13,827 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,827 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,836 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,836 FT_slider2 value changed to0.51
+2021-05-07 01:39:13,836 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,837 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,845 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,846 FT_slider2 value changed to0.53
+2021-05-07 01:39:13,846 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,846 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,855 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,856 FT_slider2 value changed to0.57
+2021-05-07 01:39:13,856 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,857 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,864 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,864 FT_slider2 value changed to0.59
+2021-05-07 01:39:13,865 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,865 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,876 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,876 FT_slider2 value changed to0.62
+2021-05-07 01:39:13,877 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,877 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,884 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,885 FT_slider2 value changed to0.64
+2021-05-07 01:39:13,885 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,885 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,893 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,894 FT_slider2 value changed to0.65
+2021-05-07 01:39:13,894 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,894 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,904 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,905 FT_slider2 value changed to0.67
+2021-05-07 01:39:13,905 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,905 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,913 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,914 FT_slider2 value changed to0.69
+2021-05-07 01:39:13,914 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,914 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,924 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,924 FT_slider2 value changed to0.7
+2021-05-07 01:39:13,925 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,925 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,933 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,933 FT_slider2 value changed to0.71
+2021-05-07 01:39:13,934 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,935 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,943 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,943 FT_slider2 value changed to0.72
+2021-05-07 01:39:13,944 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,944 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,952 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,953 FT_slider2 value changed to0.73
+2021-05-07 01:39:13,954 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,954 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,972 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,972 FT_slider2 value changed to0.74
+2021-05-07 01:39:13,973 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,973 the mixer did not work please choose the components properly
+2021-05-07 01:39:13,982 FT_slider1 value changed to0.29
+2021-05-07 01:39:13,982 FT_slider2 value changed to0.75
+2021-05-07 01:39:13,982 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:13,983 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,769 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,769 FT_slider2 value changed to0.73
+2021-05-07 01:39:14,770 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,770 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,779 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,779 FT_slider2 value changed to0.71
+2021-05-07 01:39:14,780 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,780 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,788 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,789 FT_slider2 value changed to0.68
+2021-05-07 01:39:14,789 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,789 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,798 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,798 FT_slider2 value changed to0.63
+2021-05-07 01:39:14,799 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,799 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,808 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,809 FT_slider2 value changed to0.59
+2021-05-07 01:39:14,809 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,810 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,818 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,818 FT_slider2 value changed to0.55
+2021-05-07 01:39:14,819 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,820 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,828 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,828 FT_slider2 value changed to0.5
+2021-05-07 01:39:14,828 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,829 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,837 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,838 FT_slider2 value changed to0.46
+2021-05-07 01:39:14,838 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,839 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,847 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,847 FT_slider2 value changed to0.42
+2021-05-07 01:39:14,847 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,848 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,857 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,857 FT_slider2 value changed to0.39
+2021-05-07 01:39:14,857 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,858 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,868 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,868 FT_slider2 value changed to0.35
+2021-05-07 01:39:14,869 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,869 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,876 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,877 FT_slider2 value changed to0.33
+2021-05-07 01:39:14,877 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,877 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,886 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,887 FT_slider2 value changed to0.3
+2021-05-07 01:39:14,888 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,888 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,895 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,896 FT_slider2 value changed to0.28
+2021-05-07 01:39:14,896 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,896 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,905 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,906 FT_slider2 value changed to0.26
+2021-05-07 01:39:14,906 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,906 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,916 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,916 FT_slider2 value changed to0.25
+2021-05-07 01:39:14,917 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,917 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,924 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,925 FT_slider2 value changed to0.23
+2021-05-07 01:39:14,925 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,925 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,935 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,936 FT_slider2 value changed to0.21
+2021-05-07 01:39:14,936 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,937 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,944 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,944 FT_slider2 value changed to0.2
+2021-05-07 01:39:14,945 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,945 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,954 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,954 FT_slider2 value changed to0.19
+2021-05-07 01:39:14,955 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,955 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,964 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,964 FT_slider2 value changed to0.18
+2021-05-07 01:39:14,965 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,965 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,973 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,974 FT_slider2 value changed to0.17
+2021-05-07 01:39:14,974 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,974 the mixer did not work please choose the components properly
+2021-05-07 01:39:14,992 FT_slider1 value changed to0.29
+2021-05-07 01:39:14,993 FT_slider2 value changed to0.16
+2021-05-07 01:39:14,993 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:14,993 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,013 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,014 FT_slider2 value changed to0.15
+2021-05-07 01:39:15,014 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,014 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,188 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,189 FT_slider2 value changed to0.16
+2021-05-07 01:39:15,189 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,189 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,198 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,198 FT_slider2 value changed to0.17
+2021-05-07 01:39:15,198 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,199 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,207 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,207 FT_slider2 value changed to0.18
+2021-05-07 01:39:15,208 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,208 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,217 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,218 FT_slider2 value changed to0.21
+2021-05-07 01:39:15,218 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,219 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,226 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,227 FT_slider2 value changed to0.25
+2021-05-07 01:39:15,227 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,227 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,237 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,237 FT_slider2 value changed to0.29
+2021-05-07 01:39:15,238 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,238 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,247 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,248 FT_slider2 value changed to0.35
+2021-05-07 01:39:15,248 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,248 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,256 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,256 FT_slider2 value changed to0.42
+2021-05-07 01:39:15,256 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,257 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,266 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,266 FT_slider2 value changed to0.48
+2021-05-07 01:39:15,267 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,268 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,275 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,276 FT_slider2 value changed to0.54
+2021-05-07 01:39:15,276 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,277 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,285 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,285 FT_slider2 value changed to0.6
+2021-05-07 01:39:15,287 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,287 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,295 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,295 FT_slider2 value changed to0.66
+2021-05-07 01:39:15,296 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,296 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,303 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,304 FT_slider2 value changed to0.7
+2021-05-07 01:39:15,304 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,304 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,313 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,314 FT_slider2 value changed to0.73
+2021-05-07 01:39:15,314 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,315 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,323 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,324 FT_slider2 value changed to0.76
+2021-05-07 01:39:15,324 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,324 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,334 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,334 FT_slider2 value changed to0.78
+2021-05-07 01:39:15,335 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,335 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,344 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,345 FT_slider2 value changed to0.8
+2021-05-07 01:39:15,345 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,345 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,353 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,353 FT_slider2 value changed to0.81
+2021-05-07 01:39:15,354 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,354 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,362 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,363 FT_slider2 value changed to0.82
+2021-05-07 01:39:15,363 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,363 the mixer did not work please choose the components properly
+2021-05-07 01:39:15,382 FT_slider1 value changed to0.29
+2021-05-07 01:39:15,382 FT_slider2 value changed to0.83
+2021-05-07 01:39:15,382 the mode used in mixing the images is None for component Magnitude for Image1 and component Uniform Magnitude for Image2
+2021-05-07 01:39:15,382 the mixer did not work please choose the components properly
